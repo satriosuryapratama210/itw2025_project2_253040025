@@ -38,7 +38,7 @@ body {
   position: relative;
   min-height: 100vh;
   padding: 80px 0;
-  background-image: url(/img/Page\ 2.png);
+  background-image: url(../img/Page\ 2.png);
   background-size: cover;
   background-position: center;
 }
