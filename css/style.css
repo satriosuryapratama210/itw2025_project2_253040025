@@ -1,0 +1,179 @@
+html {
+  scroll-padding-top: 7rem;
+}
+
+body {
+  background-color: darkgrey;
+}
+
+/* Page1 */
+.hero {
+  display: flex;
+}
+
+.hero img {
+  width: 100%;
+}
+
+.container-sgh {
+  background-image: url(/img/Garage.png);
+  background-size: cover;
+  width: 100%;
+}
+
+.container-sgh h1 {
+  font-family: "DM Serif Text";
+  text-shadow: 3px 3px 6px black;
+}
+
+.container-sgh p {
+  font-size: 25px;
+  font-family: "DM Serif Text";
+  text-shadow: 3px 3px 6px black;
+}
+
+/* Page 2 */
+
+.why {
+  position: relative;
+  min-height: 100vh;
+  padding: 80px 0;
+  background-image: url(/img/Page\ 2.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.why .overlay {
+  position: absolute;
+  background: black;
+}
+
+.judul-text {
+  color: white;
+  font-size: 50px;
+  font-weight: 700;
+  font-family: "DM Serif Text";
+  text-shadow: 3px 6px 6px black;
+}
+
+.container p {
+  font-family: "DM Serif Text";
+}
+
+.unggul {
+  color: #ff7a00;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.feature-box {
+  background-color: rgba(255, 255, 255, 0.678);
+  border-radius: 14px;
+  padding: 25px;
+  height: 100%;
+}
+
+.feature-box:hover {
+  background-color: white;
+}
+
+.feature-icon {
+  font-size: 30px;
+  display: flex;
+  color: #ff7a00;
+}
+
+.feature-box h5 {
+  font-family: "Racing Sans One";
+  color: #ff7a00;
+}
+
+.feature-box p {
+  font-family: "DM Serif Text";
+  color: rgb(2, 2, 2);
+}
+
+.contactp2 {
+  background-color: rgba(255, 255, 255, 0.678);
+  border-radius: 14px;
+  font-family: "Racing Sans One";
+  color: #ff7a00;
+}
+
+/* page 3 */
+
+.services h2 {
+  color: white;
+  font-size: 50px;
+  font-weight: 700;
+  font-family: "DM Serif Text";
+  text-shadow: 3px 6px 6px black;
+}
+.services h5 {
+  font-family: "Racing Sans One";
+}
+
+.services p {
+  font-family: "DM Serif Text";
+}
+
+.satu:hover {
+  background-color: #ff7a00;
+  text-shadow: 3px 3px 12px rgb(44, 44, 44);
+}
+.dua:hover {
+  background-color: #ff7a00;
+  text-shadow: 3px 3px 12px rgb(44, 44, 44);
+}
+.tiga:hover {
+  background-color: #ff7a00;
+  text-shadow: 3px 3px 12px rgb(44, 44, 44);
+}
+
+.service-icon {
+  font-size: 50px;
+}
+
+.container-banner {
+  font-family: "Racing Sans One";
+  color: #ff7a00;
+}
+
+/* Page 4 */
+.card-gallery h2 {
+  color: white;
+  font-size: 50px;
+  font-weight: 700;
+  font-family: "DM Serif Text";
+  text-shadow: 3px 6px 6px black;
+}
+.card img {
+  border-radius: 25px;
+}
+
+.card {
+  font-family: "DM Serif Text";
+}
+
+.card .btn {
+  font-family: "Racing Sans One";
+  font-weight: 100;
+}
+
+.card:hover {
+  box-shadow: 3px 3px 6px black;
+  background-color: #ff7a00;
+}
+
+/* Page 5 */
+.contact {
+  color: white;
+  font-size: 50px;
+  font-weight: 700;
+  font-family: "DM Serif Text";
+  text-shadow: 3px 6px 6px black;
+}
+/* footer */
+footer {
+  height: 110px;
+}
