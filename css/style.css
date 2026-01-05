@@ -16,7 +16,7 @@ body {
 }
 
 .container-sgh {
-  background-image: url(/img/Garage.png);
+  background-image: url(../img/Garage.png);
   background-size: cover;
   width: 100%;
 }
